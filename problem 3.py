@@ -1,4 +1,4 @@
-print('-' * 65)
+print('-'*65)
 print('Bouncer Bot:')
 print()
 age = input('What is your age today?')
